@@ -10,6 +10,9 @@
 ## Proposed method
 The propsoed method contains two phases: clustering and idenifcation.
 
+<p><img src="Framework/phase_1.png" title="phase 1" width="700">
+<p><img src="Framework/phase_2.png" title="phase 2" width="700">
+
 ## CFD Simulation
 We performed computational fluid dynamics simulations of liquid sloshing in a small tank with a middle water depth to better understand the nonlinear properties of water sloshing. Using experimental results, we are now validating the numerical model for simulation. Here's a look at what we have right now.
 

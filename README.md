@@ -7,7 +7,7 @@
 
 <p><img src="Framework/proposed_method.png" title="proposed method" width="700"><p>
 
-## Proposed method
+## Methodology
 The propsoed method contains two phases: clustering and idenifcation.
 
 <p><img src="Framework/phase_1.png" title="phase 1" width="700">

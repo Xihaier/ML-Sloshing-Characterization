@@ -8,4 +8,4 @@
 ## Simulation
 We performed computational fluid dynamics simulations of liquid sloshing in a small tank with a middle water depth to better understand the nonlinear properties of water sloshing. Using experimental results, we are now validating the numerical model for simulation. Here's a look at what we have right now.
 
-<p><img src="Simulation/100.gif" title="error" width="50"> <img src="Simulation/100.gif" title="error" width="260"><p>
+<p><img src="Simulation/100.gif" title="error" width="300"> <img src="Simulation/100.gif" title="error" width="300"><p>

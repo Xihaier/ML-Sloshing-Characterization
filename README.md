@@ -8,7 +8,7 @@
 ## CFD Simulation
 We performed computational fluid dynamics simulations of liquid sloshing in a small tank with a middle water depth to better understand the nonlinear properties of water sloshing. Using experimental results, we are now validating the numerical model for simulation. Here's a look at what we have right now.
 
-<p><img src="Simulation/20.gif" title="Excitation Amplitude 20mm" width="700"><figcaption>MDN Logo</figcaption><p>
-<p><img src="Simulation/22.gif" title="Excitation Amplitude 22mm" width="700"><p>
-<p><img src="Simulation/50.gif" title="Excitation Amplitude 50mm" width="700"><p> 
-<p><img src="Simulation/100.gif" title="Excitation Amplitude 100mm" width="700"><p>
+<p><img src="Simulation/20.gif" title="Excitation Amplitude 20mm" width="700"><figcaption>Excitation Amplitude 20mm</figcaption><p>
+<p><img src="Simulation/22.gif" title="Excitation Amplitude 22mm" width="700"><figcaption>Excitation Amplitude 22mm</figcaption><p>
+<p><img src="Simulation/50.gif" title="Excitation Amplitude 50mm" width="700"><figcaption>Excitation Amplitude 50mm</figcaption><p>
+<p><img src="Simulation/100.gif" title="Excitation Amplitude 100mm" width="700"><figcaption>Excitation Amplitude 100mm</figcaption><p>

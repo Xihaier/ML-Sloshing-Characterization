@@ -15,8 +15,8 @@ The propsoed method contains two phases: clustering and idenifcation.
 
 ## Attractor reconstruction 
 These are the attractor reconstruction results for the two additional clusters studied in the paper. 
-<p><img src="Framework/phase_1.png" title="phase 1" width="700">
-<p><img src="Framework/phase_2.png" title="phase 2" width="700">
+<p><img src="Results/seq_34.pdf" title="seq 1" width="700">
+<p><img src="Results/seq_501.pdf" title="seq 2" width="700">
  
 ## CFD Simulation
 We performed computational fluid dynamics simulations of liquid sloshing in a small tank with a middle water depth to better understand the nonlinear properties of water sloshing. Using experimental results, we are now validating the numerical model for simulation. Here's a look at what we have right now.

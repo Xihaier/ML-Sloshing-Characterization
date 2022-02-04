@@ -1,5 +1,5 @@
 # ML_Sloshing_Characterization
-  Supplementary material for the manuscript titled "A Machine Learning-based Characterization Framework for Parametric Representation of Nonlinear Sloshing", authored by Xihaier Luo, Ahsan Kareem, Liting Yu, and Shinjae Yoo.
+  Supplementary material for the manuscript titled "A Machine Learning-based Characterization Framework for Parametric Representation of Nonlinear Sloshing", authored by Xihaier Luo, Ahsan Kareem, Liting Yu, and Shinjae Yoo
 
 ## Overview
 
